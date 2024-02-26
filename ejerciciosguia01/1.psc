@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+GIAlgoritmo sin_titulo
 	Definir tipo_mascota como cadena;
 	Definir nombre Como cadena;
 	Definir peso Como Real;
